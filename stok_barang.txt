@@ -1,0 +1,12 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,SusuKotak,12
+BRG005,MieInstan,30
+BRG006,Biskuit,18
+BRG007,KopiSachet,25
+BRG008,GulaPasir,14
+BRG009,MinyakGoreng,8
+BRG010,Beras5Kg,3
+BRG011,TehCelup,5
+BRG012,Snack,8
