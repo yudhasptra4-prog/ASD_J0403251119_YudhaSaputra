@@ -7,4 +7,6 @@ BRG006,Biskuit,18
 BRG007,KopiSachet,25
 BRG008,GulaPasir,14
 BRG009,MinyakGoreng,8
-BRG010,Beras5Kg,6
+BRG010,Beras5Kg,3
+BRG011,TehCelup,5
+BRG012,Snack,8
