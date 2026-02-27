@@ -18,7 +18,7 @@ def biner_batas(n, batas, hasil="", jumlah_1=0):   # Membuat fungsi kombinasi bi
         return                                    # Hentikan proses pada cabang ini
 
     biner_batas(n, batas, hasil + "0", jumlah_1)  # Menambahkan angka 0 tanpa menambah jumlah_1
-    biner_batas(n, batas, hasil + "1", jumlah_1 + 1)  
-    # Menambahkan angka 1 dan menambah jumlah_1
+    biner_batas(n, batas, hasil + "1", jumlah_1 + 1)  # Menambahkan angka 1 dan menambah jumlah_1
+    
 
 biner_batas(4, 2)                                 # Menjalankan fungsi dengan panjang 4 dan batas maksimal 2 angka 1
