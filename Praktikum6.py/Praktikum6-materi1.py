@@ -22,5 +22,6 @@ def insertion_sort(data):
         data[j+1] = key
     return data
 
+#Data angka
 angka = [7,8,5,2,4,6]
 print("Hasil Sorting : ", insertion_sort(angka))
