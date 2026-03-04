@@ -111,7 +111,7 @@ def main():
 
         # Menu keluar program
         elif pilih == "4":
-            print("Program selesai. Terima kasih.")
+            print("Program selesai. Terima kasihhhhhh.")
             break
         else:
             print("Pilihan tidak valid")
