@@ -1,0 +1,4 @@
+A001,Sang Petualang,55000
+B02,Domba Kecil,45000
+C03,Pandangan Hidup,63000
+D04,Cinta Ibu,57000
